@@ -7,7 +7,7 @@ function DrumMachine() {
     <div id="drum-machine">
       <div className="credits">
         Por{" "}
-        <a href="https://github.com/MiltonEmm008/drum-machine-fcc">Milton</a>
+        <a target="_blank" href="https://github.com/MiltonEmm008/drum-machine-fcc">Milton</a>
       </div>
       <DrumsContainer />
       <ControlsContainer />
